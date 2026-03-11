@@ -1,4 +1,4 @@
 {
   "version": "1.0",
-  "firmware": "https://raw.githubusercontent.com/vsenaiot/esp32-irrigation-firmware/main/firmware.bin"
+  "firmware": "https://raw.githubusercontent.com/vsenaiot/esp32-irrigation-firmware/main/Irrigation_arulfarm_mqtt.ino.esp32.bin"
 }
